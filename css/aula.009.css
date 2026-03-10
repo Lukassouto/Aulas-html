@@ -1,0 +1,7 @@
+*
+h1 {
+    width: 172px; /* tamanho da linha */
+    background-color: red;
+    padding: 10px;/* espaçamento */
+    border: 4px solid black;/* bordas */
+}
